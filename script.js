@@ -1,6 +1,6 @@
 
 const tableContainer = document.getElementById('table'); //get table id
-let data = [];
+let data = []; //use to get the json data for sorting
 
 //run loop through json array
 function generateTable(dataJson) {
